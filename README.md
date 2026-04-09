@@ -34,7 +34,7 @@ README.md                       = Este archivo
 ```
 
 ## Cómo Usar
-1.  Abre el notebook `notebook.ipynb` en Google Colab o tu entorno Jupyter preferido.
+1.  Abre el notebook `TALLER 1 PCD.ipynb` en Google Colab o tu entorno Jupyter preferido.
 2.  Asegúrate de que el archivo `Food_Preference(1).csv` esté en la misma ubicación que el notebook.
 3.  Ejecuta todas las celdas del notebook para realizar la limpieza y transformación de los datos.
 4.  El resultado final se guardará en `Food_Preference_Processed.csv` que tienes que descargar.
